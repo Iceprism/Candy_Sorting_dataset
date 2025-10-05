@@ -1,4 +1,4 @@
-# Candy_Sorting_dataset
+# Candy_dataset
 
 A dataset for candy object detection, formatted for YOLO models.  
 
